@@ -73,3 +73,13 @@ or Simply click on Run button on top-right side.
 http://127.0.0.1:7860
 ```
 or any other port(check it in your terminal after running the project)
+
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="screenshot.png" alt="Centered Image" width="600"/>
+</p>
+
+
