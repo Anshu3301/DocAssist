@@ -79,7 +79,7 @@ or any other port(check it in your terminal after running the project)
 <br>
 
 <p align="center">
-  <img src="screenshot.png" alt="Centered Image" width="600"/>
+  <img src="Screenshot.png" alt="Centered Image" width="1200"/>
 </p>
 
 
