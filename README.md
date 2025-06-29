@@ -17,8 +17,8 @@
 
 ## 📁 Project Structure
 
-├── brain_of_the_doctor.py # Handles image encoding and AI image analysis
-├── voice_of_the_patient.py # Records and transcribes patient voice
+├── brain_of_the_doctor.py 
+├── voice_of_the_patient.py 
 ├── voice_of_the_doctor.py # Converts AI response to spoken audio
 ├── gradio_app.py # Gradio-powered frontend interface
 ├── requirements.txt # Dependency list (for fallback use)
