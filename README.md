@@ -76,10 +76,17 @@ or any other port(check it in your terminal after running the project)
 
 <br>
 <br>
-<br>
 
+---
+
+### Live Server:
 <p align="center">
-  <img src="Screenshot.png" alt="Centered Image" width="1200"/>
+  <img src="initial.png" alt="Centered Image" width="1200"/>
+</p>
+<br>
+<br>
+<p align="center">
+  <img src="uploaded.png" alt="Centered Image" width="1200"/>
 </p>
 
 
