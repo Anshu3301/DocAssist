@@ -15,18 +15,6 @@
 
 ---
 
-## 📁 Project Structure
-
-├── brain_of_the_doctor.py 
-├── voice_of_the_patient.py 
-├── voice_of_the_doctor.py # Converts AI response to spoken audio
-├── gradio_app.py # Gradio-powered frontend interface
-├── requirements.txt # Dependency list (for fallback use)
-├── Pipfile / Pipfile.lock # Pipenv environment files
-└── .env # Secret keys (GROQ, ElevenLabs)
-
----
-
 ## Workflow of the Project:
   1. User records voice input describing symptoms.
 
